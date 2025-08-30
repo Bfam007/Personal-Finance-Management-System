@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\expencerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\expencerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\financerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\financerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExpenceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenceRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\ExpenceRecord.cs",
+              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenceRecord.cs",
+              "RelativeToolTip": "Models\\Entities\\ExpenceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:17:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FinanceRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\FinanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\FinanceRecord.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T16:59:11.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T16:59:11.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PFMApp.csproj",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\PFMApp.csproj",
               "RelativeDocumentMoniker": "PFMApp.csproj",
