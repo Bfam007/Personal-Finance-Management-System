@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\reportsandanalyticsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\reportsandanalyticsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\Notification.cs",
+              "RelativeToolTip": "Models\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:46:14.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReportsAndAnalyticsRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ReportsAndAnalyticsRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\ReportsAndAnalyticsRecord.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FinancialGoal.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\FinancialGoal.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\FinancialGoal.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Models\\Entities\\FinancialGoal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:16:59.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:16:59.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BudgetRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\BudgetRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\BudgetRecord.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExpenseRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenseRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\ExpenseRecord.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FinanceRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\FinanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\FinanceRecord.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PFMApp.csproj",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\PFMApp.csproj",
               "RelativeDocumentMoniker": "PFMApp.csproj",
