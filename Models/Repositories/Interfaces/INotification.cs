@@ -5,7 +5,7 @@ namespace PFMApp.Models.Repositories.Interfaces
     public interface INotification
     {
         void AddNotification(Notification notification);
-        List<Notification> GetAllNotifications(int UserId);
+        List<Notification> GetAllNotification();
         Notification GetNotification(int Id);
         Notification GetNotificationById(int UserId);
         Notification GetNotificationByType(string Type);

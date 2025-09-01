@@ -5,7 +5,7 @@ namespace PFMApp.Models.Repositories.Interfaces
     public interface IExpenseRecordRepository
     {
         void AddExpenseRecord(ExpenseRecord expenseRecord);
-        List<ExpenseRecord> GetExpenseRecords(int UserId);
+        List<ExpenseRecord> GetExpenseRecords();
         ExpenseRecord GetExpenseRecord(int Id);
 
     }

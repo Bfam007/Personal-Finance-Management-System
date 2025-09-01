@@ -4,10 +4,10 @@ namespace PFMApp.Models.Repositories.Interfaces
 {
     public interface IReportAndAnalyticsRecord
     {
-        void AddReportAndAnalyticsRecord(ReportAndAnalyticsRecord reportAndAnalyticsRecord);
-        List<ReportAndAnalyticsRecord> GetReportAndAnalyticsRecords(int Id);
-        ReportAndAnalyticsRecord GetReportAndAnalyticsRecord(int UserId);
-        ReportAndAnalyticsRecord GetReportAndAnalyticRecordByName(string ReportName);
+        void AddReportsAndAnalyticsRecord(ReportsAndAnalyticsRecord reportAndAnalyticsRecord);
+        List<ReportsAndAnalyticsRecord> GetReportsAndAnalyticsRecords();
+        ReportsAndAnalyticsRecord GetReportAndAnalyticsRecord(int UserId);
+        ReportsAndAnalyticsRecord GetReportAndAnalyticRecordByName(string ReportName);
         
 
 
