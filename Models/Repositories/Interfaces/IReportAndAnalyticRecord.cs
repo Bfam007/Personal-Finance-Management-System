@@ -7,7 +7,7 @@ namespace PFMApp.Models.Repositories.Interfaces
         void AddReportAndAnalyticsRecord(ReportAndAnalyticsRecord reportAndAnalyticsRecord);
         List<ReportAndAnalyticsRecord> GetReportAndAnalyticsRecords(int Id);
         ReportAndAnalyticsRecord GetReportAndAnalyticsRecord(int UserId);
-        ReportAndAnalyticsRecord GetReportAndAnalyticsRecord(string ReportName);
+        ReportAndAnalyticsRecord GetReportAndAnalyticRecordByName(string ReportName);
         
 
 
