@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\repositories\\interfaces\\ibudgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\repositories\\interfaces\\ibudgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\budgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\budgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\expenserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\expenserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\repositories\\interfaces\\iexpenserecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\repositories\\interfaces\\iexpenserecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\repositories\\interfaces\\ifinancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\repositories\\interfaces\\ifinancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\repositories\\interfaces\\ifinancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\repositories\\interfaces\\ifinancerecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\financerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\reportsandanalyticsrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\budgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\budgetrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\models\\entities\\expenserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:models\\entities\\expenserecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|c:\\users\\bbodu\\source\\repos\\pfmapp\\pfmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CDDAC11-00BE-41E9-9695-4A59B7069CA5}|PFMApp.csproj|solutionrelative:pfmapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -59,6 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IBudgetRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Repositories\\Interfaces\\IBudgetRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\Interfaces\\IBudgetRecord.cs",
+              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Repositories\\Interfaces\\IBudgetRecord.cs",
+              "RelativeToolTip": "Models\\Repositories\\Interfaces\\IBudgetRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:08:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IExpenseRecordRepository.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Repositories\\Interfaces\\IExpenseRecordRepository.cs",
               "RelativeDocumentMoniker": "Models\\Repositories\\Interfaces\\IExpenseRecordRepository.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IFinanceRecordRepository.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Repositories\\Interfaces\\IFinanceRecordRepository.cs",
               "RelativeDocumentMoniker": "Models\\Repositories\\Interfaces\\IFinanceRecordRepository.cs",
@@ -79,11 +96,12 @@
               "RelativeToolTip": "Models\\Repositories\\Interfaces\\IFinanceRecordRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T19:50:59.985Z"
+              "WhenOpened": "2025-08-31T19:50:59.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Models\\Repositories\\Interfaces\\IUserRepository.cs",
@@ -91,11 +109,38 @@
               "RelativeToolTip": "Models\\Repositories\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T19:38:18.077Z"
+              "WhenOpened": "2025-08-31T19:38:18.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "BudgetRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\BudgetRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\BudgetRecord.cs",
+              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\BudgetRecord.cs",
+              "RelativeToolTip": "Models\\Entities\\BudgetRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:01:56.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenseRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\ExpenseRecord.cs",
+              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenseRecord.cs",
+              "RelativeToolTip": "Models\\Entities\\ExpenseRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:17:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FinancialGoal.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\FinancialGoal.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\FinancialGoal.cs",
@@ -107,31 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BudgetRecord.cs",
-              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\BudgetRecord.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\BudgetRecord.cs",
-              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\BudgetRecord.cs",
-              "RelativeToolTip": "Models\\Entities\\BudgetRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:01:56.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExpenseRecord.cs",
-              "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenseRecord.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\ExpenseRecord.cs",
-              "ToolTip": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ExpenseRecord.cs",
-              "RelativeToolTip": "Models\\Entities\\ExpenseRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:17:59.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FinanceRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\FinanceRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\FinanceRecord.cs",
@@ -143,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ReportsAndAnalyticsRecord.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\ReportsAndAnalyticsRecord.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\ReportsAndAnalyticsRecord.cs",
@@ -155,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
@@ -167,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\Models\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Notification.cs",
@@ -179,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PFMApp.csproj",
               "DocumentMoniker": "C:\\Users\\bbodu\\source\\repos\\PFMApp\\PFMApp.csproj",
               "RelativeDocumentMoniker": "PFMApp.csproj",
