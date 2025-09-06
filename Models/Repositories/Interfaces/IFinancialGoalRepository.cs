@@ -2,12 +2,12 @@
 
 namespace PFMApp.Models.Repositories.Interfaces
 {
-    public interface IFinancialGoal
+    public interface IFinancialGoalRepository
     {
         void AddFinancialGoal(FinancialGoal financialGoal);
         List<FinancialGoal> GetFinancialGoal();
         FinancialGoal GetFinancialGoal(string FinancialGoalName);
-        FinancialGoal GetFinanacialGoal(int TargetAmount);
+        FinancialGoal GetFinanacialGoal(decimal TargetAmount);
 
 
     }

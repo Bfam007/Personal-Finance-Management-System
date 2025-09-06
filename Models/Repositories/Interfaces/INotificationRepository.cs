@@ -2,7 +2,7 @@
 
 namespace PFMApp.Models.Repositories.Interfaces
 {
-    public interface INotification
+    public interface INotificationRepository
     {
         void AddNotification(Notification notification);
         List<Notification> GetAllNotification();

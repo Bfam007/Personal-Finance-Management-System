@@ -2,7 +2,7 @@
 
 namespace PFMApp.Models.Repositories.Interfaces
 {
-    public interface IBudgetRecord
+    public interface IBudgetRecordRepository
     {
         void AddBudgetRecord(BudgetRecord budgetRecord);
         List<BudgetRecord> GetBudgetRecords();
