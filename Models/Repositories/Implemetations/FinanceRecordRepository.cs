@@ -5,19 +5,22 @@ namespace PFMApp.Models.Repositories.Implemetations
 {
     public class FinanceRecordRepository : IFinanceRecordRepository
     {
+        public static List<FinanceRecord> FinanceRecordList = [];
         public void AddFinanceRecord(FinanceRecord financeRecord)
         {
-            throw new NotImplementedException();
+            FinanceRecordList.Add(financeRecord);
         }
 
         public List<FinanceRecord> GetAllFinanceRecords()
         {
-            throw new NotImplementedException();
+            var financeRecord = FinanceRecordList.ToList();
+            return financeRecord;
         }
 
         public FinanceRecord GetFinanceRecord(int Id)
         {
-            throw new NotImplementedException();
+            var financeRecord = FinanceRecordList.Where(x => x.Id == Id).FirstOrDefault();
+            return financeRecord;
         }
     }
 }

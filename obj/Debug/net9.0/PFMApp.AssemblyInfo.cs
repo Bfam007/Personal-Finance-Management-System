@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc4eb63cea83282daa3f062094c6ce69fc8060d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c70039108e022b8207fbfc7697eba94d8779de9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

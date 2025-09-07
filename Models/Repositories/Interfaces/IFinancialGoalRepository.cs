@@ -7,7 +7,7 @@ namespace PFMApp.Models.Repositories.Interfaces
         void AddFinancialGoal(FinancialGoal financialGoal);
         List<FinancialGoal> GetFinancialGoal();
         FinancialGoal GetFinancialGoal(string FinancialGoalName);
-        FinancialGoal GetFinanacialGoal(decimal TargetAmount);
+        FinancialGoal GetFinanacialGoal(int Id);
 
 
     }

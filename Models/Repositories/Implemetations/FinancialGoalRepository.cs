@@ -5,24 +5,29 @@ namespace PFMApp.Models.Repositories.Implemetations
 {
     public class FinancialGoalRepository : IFinancialGoalRepository
     {
+        public static List<FinancialGoal> FinancialGoalList = [];
         public void AddFinancialGoal(FinancialGoal financialGoal)
         {
-            throw new NotImplementedException();
+            FinancialGoalList.Add(financialGoal);
         }
 
-        public FinancialGoal GetFinanacialGoal(decimal TargetAmount)
+        public FinancialGoal GetFinanacialGoal(int Id)
         {
-            throw new NotImplementedException();
+            var financialGoal = FinancialGoalList.Where(x => x.Id == Id).FirstOrDefault();
+            return financialGoal;
+            
         }
 
         public List<FinancialGoal> GetFinancialGoal()
         {
-            throw new NotImplementedException();
+            var financialGoal = FinancialGoalList.ToList();
+            return financialGoal;
         }
 
         public FinancialGoal GetFinancialGoal(string FinancialGoalName)
         {
-            throw new NotImplementedException();
+            var financialGoal = FinancialGoalList.Where(x => x.FinancialGoalName == FinancialGoalName).FirstOrDefault();
+            return financialGoal;
         }
     }
 }

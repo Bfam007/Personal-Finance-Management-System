@@ -3,21 +3,27 @@ using PFMApp.Models.Repositories.Interfaces;
 
 namespace PFMApp.Models.Repositories.Implemetations
 {
-    public class ExpenseReportRepository : IExpenseRecordRepository
+    public class ExpenseRecortRepository : IExpenseRecordRepository
     {
+        public static List<ExpenseRecord> ExpenseRecordList = [];
         public void AddExpenseRecord(ExpenseRecord expenseRecord)
         {
-            throw new NotImplementedException();
+            ExpenseRecordList.Add(expenseRecord);
         }
 
         public ExpenseRecord GetExpenseRecord(int Id)
         {
-            throw new NotImplementedException();
+            var expenseRecord = ExpenseRecordList.Where(x => x.Id == Id).FirstOrDefault();
+            return expenseRecord;
         }
 
-        public List<ExpenseRecord> GetExpenseRecords()
+        public List<ExpenseRecord> GetExpenseRecords(int UserId)
         {
-            throw new NotImplementedException();
+            var expenseRecord = ExpenseRecordList.Where(x => x.UserId == UserId).ToList();
+            return expenseRecord;
+
         }
+
+
     }
 }

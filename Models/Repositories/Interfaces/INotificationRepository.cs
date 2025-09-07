@@ -7,7 +7,7 @@ namespace PFMApp.Models.Repositories.Interfaces
         void AddNotification(Notification notification);
         List<Notification> GetAllNotification();
         Notification GetNotification(int Id);
-        Notification GetNotificationById(int UserId);
+        List<Notification> GetNotificationByUser(int UserId);
         Notification GetNotificationByType(string Type);
 
 

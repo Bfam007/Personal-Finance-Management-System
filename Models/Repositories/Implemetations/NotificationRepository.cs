@@ -5,29 +5,34 @@ namespace PFMApp.Models.Repositories.Implemetations
 {
     public class NotificationRepository : INotificationRepository
     {
+        public static List<Notification> NotificationList = [];
         public void AddNotification(Notification notification)
         {
-            throw new NotImplementedException();
+            NotificationList.Add(notification);
         }
 
         public List<Notification> GetAllNotification()
         {
-            throw new NotImplementedException();
+            var notificatio = NotificationList.ToList(); 
+            return notificatio;
         }
 
         public Notification GetNotification(int Id)
         {
-            throw new NotImplementedException();
+            var notification = NotificationList.Where(x => x.Id == Id).FirstOrDefault();
+            return notification;
         }
 
-        public Notification GetNotificationById(int UserId)
+        public List<Notification> GetNotificationByUser(int UserId)
         {
-            throw new NotImplementedException();
+            var notification = NotificationList.Where(x => x.UserId == UserId).ToList();
+            return notification;
         }
 
         public Notification GetNotificationByType(string Type)
         {
-            throw new NotImplementedException();
+            var notification = NotificationList.Where(x => x.NotificationType == Type).FirstOrDefault();
+            return notification;
         }
     }
 }
